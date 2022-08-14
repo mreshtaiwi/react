@@ -56,6 +56,8 @@ function People() {
                     return <div key={idx}>{item}</div>
                 })
             }
+
+            <p>thanks</p>
         </div>
 
     )
